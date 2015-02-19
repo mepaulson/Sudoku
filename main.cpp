@@ -1,0 +1,13 @@
+/*This lab I set up GitHub
+
+0 3 2 0 0 8 9 1 4
+0 0 0 0 0 0 0 0 3
+0 0 7 1 0 0 0 2 6
+0 0 8 0 7 6 0 0 0
+9 2 1 3 0 0 0 8 7
+0 6 0 0 0 0 4 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 4 0 5 0 8
+8 0 0 6 0 7 0 0 0
+
+I will create a class that makes it easy to create a Sudoku puzzle and make a simple game using this class*/
